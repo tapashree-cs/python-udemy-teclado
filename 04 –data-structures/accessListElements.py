@@ -1,0 +1,6 @@
+numbers = [10, 20, 30, 40, 50]
+
+print(numbers)
+print("First:", numbers[0])
+print("Third:", numbers[2])
+print("Last:", numbers[-1])
